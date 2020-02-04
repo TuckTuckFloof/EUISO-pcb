@@ -285,8 +285,8 @@
     (add_net ROW3)
   )
 
-  (module cheems:cheems (layer F.Cu) (tedit 0) (tstamp 5E32C7A8)
-    (at 170.18 96.266)
+  (module cheems:cheems (layer F.Cu) (tedit 0) (tstamp 5E340490)
+    (at 56.388 107.061)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
